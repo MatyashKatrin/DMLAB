@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Combinatorics/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Combinatorics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Combinatorics.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Combinatorics/2.0.0": {
+      "sha512": "E00cVYTp5FTCMN9DnY64zoM3ihboRW2of8zX18OqpCtUGdyqtZk3WC7wmSp5qc15UoBa+st8VoDsm+O22tkTaQ==",
+      "type": "package",
+      "path": "combinatorics/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "combinatorics.2.0.0.nupkg.sha512",
+        "combinatorics.nuspec",
+        "icon.png",
+        "lib/net461/Combinatorics.dll",
+        "lib/net461/Combinatorics.xml",
+        "lib/netstandard1.1/Combinatorics.dll",
+        "lib/netstandard1.1/Combinatorics.xml",
+        "lib/netstandard2.0/Combinatorics.dll",
+        "lib/netstandard2.0/Combinatorics.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Combinatorics >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mra\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Education\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
+      "projectName": "Labs2-5",
+      "projectPath": "D:\\Education\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
+      "packagesPath": "C:\\Users\\mra\\.nuget\\packages\\",
+      "outputPath": "D:\\Education\\ДМ2\\Code\\Labs2-5\\Labs2-5\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Combinatorics": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
