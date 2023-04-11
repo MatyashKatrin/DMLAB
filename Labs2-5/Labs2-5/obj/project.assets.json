@@ -43,23 +43,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mra\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ThinkPad_t580\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Education\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
+      "projectUniqueName": "C:\\Users\\ThinkPad_t580\\Desktop\\Навчання\\2 семестр\\ДМ\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
       "projectName": "Labs2-5",
-      "projectPath": "D:\\Education\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
-      "packagesPath": "C:\\Users\\mra\\.nuget\\packages\\",
-      "outputPath": "D:\\Education\\ДМ2\\Code\\Labs2-5\\Labs2-5\\obj\\",
+      "projectPath": "C:\\Users\\ThinkPad_t580\\Desktop\\Навчання\\2 семестр\\ДМ\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
+      "packagesPath": "C:\\Users\\ThinkPad_t580\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ThinkPad_t580\\Desktop\\Навчання\\2 семестр\\ДМ\\ДМ2\\Code\\Labs2-5\\Labs2-5\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThinkPad_t580\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -106,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

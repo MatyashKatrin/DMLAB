@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eH2JxJWdyAae3+UCiP4WLa0frB1CG6kiELqFllS3WuudSfSc+b5cZjtjKk4D1/gDghxnfWgz0I8zTJyT3XBCrA==",
+  "dgSpecHash": "ULoDfbm3VdA70lM2wBwyV54y8Q9XvYhxKxFedU45fzFd/v4//PMTmHeaF1mToQUNWQFm/dppVs/jN4YrI4B1eA==",
   "success": true,
-  "projectFilePath": "D:\\Education\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
+  "projectFilePath": "C:\\Users\\ThinkPad_t580\\Desktop\\Навчання\\2 семестр\\ДМ\\ДМ2\\Code\\Labs2-5\\Labs2-5\\Labs2-5.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mra\\.nuget\\packages\\combinatorics\\2.0.0\\combinatorics.2.0.0.nupkg.sha512"
+    "C:\\Users\\ThinkPad_t580\\.nuget\\packages\\combinatorics\\2.0.0\\combinatorics.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }

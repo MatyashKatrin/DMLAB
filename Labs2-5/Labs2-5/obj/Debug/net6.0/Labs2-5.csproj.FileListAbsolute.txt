@@ -15,3 +15,20 @@ D:\Education\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\refint\Labs2-5.dll
 D:\Education\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.pdb
 D:\Education\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.genruntimeconfig.cache
 D:\Education\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\ref\Labs2-5.dll
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\bin\Debug\net6.0\Labs2-5.exe
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\bin\Debug\net6.0\Labs2-5.deps.json
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\bin\Debug\net6.0\Labs2-5.runtimeconfig.json
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\bin\Debug\net6.0\Labs2-5.dll
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\bin\Debug\net6.0\Labs2-5.pdb
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\bin\Debug\net6.0\Combinatorics.dll
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.csproj.AssemblyReference.cache
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.AssemblyInfoInputs.cache
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.AssemblyInfo.cs
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.csproj.CopyComplete
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.dll
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\refint\Labs2-5.dll
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.pdb
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\Labs2-5.genruntimeconfig.cache
+C:\Users\ThinkPad_t580\Desktop\Навчання\2 семестр\ДМ\ДМ2\Code\Labs2-5\Labs2-5\obj\Debug\net6.0\ref\Labs2-5.dll
